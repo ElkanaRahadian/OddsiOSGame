@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="500" src="/.png">
+  <img height="500" src="/OddsiOSGame.png">
 </p>
 
 # TaakiOSGame
