@@ -6,7 +6,7 @@
 Dare to Bond: Break the Ice, Embrace the Ridiculous!
 
 # Overview
-iOS game that can help people to engage and bond with one another through ice breaking activity, where one person dares another to do a ridiculous task.
+Odds is an iOS game that can help people engage and bond with one another through ice-breaking activities, where one person dares another to do a ridiculous task.
 
 # Tech
 The implemented tech in this game includes:
