@@ -2,7 +2,7 @@
   <img height="500" src="/OddsiOSGame.png">
 </p>
 
-# Odds iOS Game
+# Odds iOS Gam
 Dare to Bond: Break the Ice, Embrace the Ridiculous!
 
 # Overview
