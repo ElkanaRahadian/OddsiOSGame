@@ -1,5 +1,5 @@
 //
-//  ResultsVC.swif
+//  ResultsVC.swift
 //  Odds
 //
 //  Created by Elkana Antonio on 30/04/21.
